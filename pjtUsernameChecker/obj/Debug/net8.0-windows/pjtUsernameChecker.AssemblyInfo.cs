@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pjtUsernameChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3081da3dc9e724072c68bc12785af233eca8adff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3acea864a760854a6152dce200087feae735970")]
 [assembly: System.Reflection.AssemblyProductAttribute("pjtUsernameChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pjtUsernameChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

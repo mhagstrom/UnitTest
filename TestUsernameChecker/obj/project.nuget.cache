@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qE0Rl19+HE4=",
+  "dgSpecHash": "1Xjyqv0HB6w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blake Blair\\RiderProjects\\solUsernameChecker\\TestUsernameChecker\\TestUsernameChecker.csproj",
+  "projectFilePath": "C:\\Users\\Blake Blair\\Downloads\\solUsernameChecker\\TestUsernameChecker\\TestUsernameChecker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blake Blair\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Blake Blair\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
