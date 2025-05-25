@@ -1,0 +1,5 @@
+C:\Users\Blake Blair\UAT\CSC262\Hagstrom_UnitTest_Solution\pjtUsernameChecker.exe
+C:\Users\Blake Blair\UAT\CSC262\Hagstrom_UnitTest_Solution\pjtUsernameChecker.dll
+C:\Users\Blake Blair\UAT\CSC262\Hagstrom_UnitTest_Solution\pjtUsernameChecker.deps.json
+C:\Users\Blake Blair\UAT\CSC262\Hagstrom_UnitTest_Solution\pjtUsernameChecker.runtimeconfig.json
+C:\Users\Blake Blair\UAT\CSC262\Hagstrom_UnitTest_Solution\pjtUsernameChecker.pdb

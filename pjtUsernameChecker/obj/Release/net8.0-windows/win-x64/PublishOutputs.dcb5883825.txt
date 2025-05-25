@@ -1,0 +1,2 @@
+C:\Users\Blake Blair\UAT\CSC262\Hagstrom_UsernameChecker\pjtUsernameChecker.pdb
+C:\Users\Blake Blair\UAT\CSC262\Hagstrom_UsernameChecker\pjtUsernameChecker.exe
